@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gayatri Sawant</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-- 💡 I like to explore new technologies and **develop software solutions**
-
-- 🌱 I’m currently **exploring Machine Learning and NLP**
+<h1 align="center">Hello 👋, I'm Gayatri Sawant</h1>
+<h3 align="center">I'm Full Stack Developer and Graphic Designer</h3>
+<!-- <br></br> -->
 
 - 👩‍🎓 I’m currently studying Computer Engineering at **Pune Institute of Computer Technology**
+
+- 💡 I like to explore new technologies and develop software solutions
+
+- 🌱 I’m currently **exploring Machine Learning and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayatrii12](https://github.com/Gayatrii12)
 
