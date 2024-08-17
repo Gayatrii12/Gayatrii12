@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gayatri Sawant</h1>
-<h3 align="center">I'm Full Stack Developer and Graphic Designer</h3>
+<h2 align="center">I'm Full Stack Developer and Graphic Designer</h2>
 <!-- <br></br> -->
 
 - 👩‍🎓 I’m currently studying Computer Engineering at **Pune Institute of Computer Technology**
