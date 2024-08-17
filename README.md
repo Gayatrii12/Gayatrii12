@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Gayatri Sawant</h1>
 <h2 align="center">I'm Full Stack Developer and Graphic Designer</h2>
-<!-- <br></br> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Coding GIF">
+</p>
 
 - 👩‍🎓 I’m currently studying Computer Engineering at **Pune Institute of Computer Technology**
 
